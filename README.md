@@ -32,8 +32,7 @@ This project was completed as part of **RM 294: Optimization 1**, instructed by 
 
 - **Data**: Contains the datasets used for model training and testing.
 - **Scripts**: Includes Python scripts for data preprocessing, model implementation, and performance evaluation.
-- **Results**: Out-of-sample performance metrics and visualizations comparing the two models.
-- **Documentation**: Detailed explanation of the methodology, assumptions, and results.
+- **Results and Documentation**: Out-of-sample performance metrics and visualizations comparing the two models.
 
 ## 📂 Getting Started
 
