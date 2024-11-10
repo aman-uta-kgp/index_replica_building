@@ -34,10 +34,6 @@ This project was completed as part of **RM 294: Optimization 1**, instructed by 
 - **Scripts**: Includes Python scripts for data preprocessing, model implementation, and performance evaluation.
 - **Results and Documentation**: Out-of-sample performance metrics and visualizations comparing the two models.
 
-## 📂 Getting Started
-
-To get started with the analysis, clone the repository and follow the instructions in the `README.md` file within the `Scripts` folder. The code is well-documented, making it easy to understand and extend for future research or practical applications.
-
 ---
 
 Feel free to dive into our findings, experiment with the models, and contribute to enhancing this study. We hope this project serves as a stepping stone for further advancements in the field of financial optimization and index replication!
