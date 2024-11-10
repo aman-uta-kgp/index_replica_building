@@ -1,4 +1,4 @@
-# Index Replica Building: Comparative Study Using MIP and Two-Part Integer Programming
+# Index Replica Building: Comparative Study between single shot Mixed Integer Programming and a Two-Step Optimization Paradigm
 
 Welcome to our project on constructing index replicas using advanced optimization techniques! This repository explores the effectiveness of two distinct optimization models: Mixed-Integer Programming (MIP) and a Two-Part Integer Programming approach, applied to replicate financial indices with precision.
 
